@@ -65,7 +65,7 @@ Week 1              Week 2              Week 3              Week 4
 
 1. Clone Repository
 ```bash
-git clone https://github.com/sarahsair25/youtube-ai-automation.git
+git clone https://Youtube-AI-Automation-with-Zapier-and-Python.git
 cd youtube-ai-automation
 
 2. Install Dependencies
