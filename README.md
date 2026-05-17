@@ -1,4 +1,4 @@
-# 🎬 YouTube AI Automation System
+# 🎬 YouTube AI Automation System( Zapier and Python )
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991.svg)](https://openai.com)
